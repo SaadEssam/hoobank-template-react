@@ -1,8 +1,39 @@
 
+### Hoobank-template-react-tailwindcss
+
 ## Screenshot
 ![](https://github.com/SaadEssam/hoobank-template-react/blob/main/screenshot.png)
 
 
-# hoobank-template-react
-Hoobank-template-react-tailwindcss
+### Installation
+
+
+```sh
+git clone https://github.com/SaadEssam/hoobank-template-react.git
+```
+
+```sh
+$ cd hoobank-template-react
+```
+
+```sh
+$ npm install
+```
+
+### Development
+
+
+```sh
+$ npm run dev
+```
+
+### Build
+
+
+```sh
+$ npm run build
+```
+
+---
+
 
