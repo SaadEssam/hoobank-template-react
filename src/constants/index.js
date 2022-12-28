@@ -90,63 +90,78 @@ export const stats = [
 
 export const footerLinks = [
   {
+    key: "key-1",
     title: "Useful Links",
     links: [
       {
+        key: "link-1",
         name: "Content",
         link: "https://www.hoobank.com/content/",
       },
       {
+        key: "link-2",
         name: "How it Works",
         link: "https://www.hoobank.com/how-it-works/",
       },
       {
+        key: "link-3",
         name: "Create",
         link: "https://www.hoobank.com/create/",
       },
       {
+        key: "link-4",
         name: "Explore",
         link: "https://www.hoobank.com/explore/",
       },
       {
+        key: "link-5",
         name: "Terms & Services",
         link: "https://www.hoobank.com/terms-and-services/",
       },
     ],
   },
   {
+    key: "key-2",
     title: "Community",
     links: [
       {
+        key: "community-1",
         name: "Help Center",
         link: "https://www.hoobank.com/help-center/",
       },
       {
+        key: "community-2",
         name: "Partners",
         link: "https://www.hoobank.com/partners/",
       },
       {
+        key: "community-3",
         name: "Suggestions",
         link: "https://www.hoobank.com/suggestions/",
       },
       {
+        key: "community-4",
         name: "Blog",
         link: "https://www.hoobank.com/blog/",
       },
       {
+        key: "community-5",
         name: "Newsletters",
         link: "https://www.hoobank.com/newsletters/",
       },
     ],
   },
   {
+    key: "key-3",
     title: "Partner",
     links: [
       {
+        key: "partner-1",
         name: "Our Partner",
         link: "https://www.hoobank.com/our-partner/",
       },
       {
+        key: "partner-2",
         name: "Become a Partner",
         link: "https://www.hoobank.com/become-a-partner/",
       },
