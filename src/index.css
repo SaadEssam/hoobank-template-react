@@ -139,7 +139,6 @@
   filter: blur(750px);
 }
 
-
 /* Scrollbar Styling */
 ::-webkit-scrollbar {
   width: 15px;
@@ -163,5 +162,4 @@
     #5ce1e6 51.94%,
     #33bbcf 90.29%
   );
-
 }

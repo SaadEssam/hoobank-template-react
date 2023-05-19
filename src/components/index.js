@@ -10,7 +10,6 @@ import Hero from "./Hero";
 import Stats from "./Stats";
 import Testimonials from "./Testimonials";
 
-
 export {
   Navbar,
   Billing,

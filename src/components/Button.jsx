@@ -1,12 +1,15 @@
-import React from 'react'
+import React from "react";
 
-const Button = ({props}) => {
+const Button = ({ props }) => {
   return (
-    <button type="button" className={`py-4 px-6 bg-blue-gradient font-poppins font-medium
-    text-[18px] text-primary outline-none rounded-[10px] ${props}`}>
+    <button
+      type="button"
+      className={`bg-blue-gradient rounded-[10px] py-4 px-6 font-poppins
+    text-[18px] font-medium text-primary outline-none ${props}`}
+    >
       Get Started
     </button>
-  )
-}
+  );
+};
 
-export default Button
+export default Button;
